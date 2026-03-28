@@ -43,3 +43,6 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Видео демонстрации
+Файл demo.mp4 находится в репозитории.
